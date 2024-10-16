@@ -2,4 +2,4 @@ protobuf_decoder
 Flask
 requests
 pycryptodome  
-protobuf-decoder 
+protobuf_decoder
